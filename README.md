@@ -7,3 +7,11 @@ categorical crossentropy loss function, and then trains the model on the trainin
 the training and validation loss as well as accuracy over epochs. After training, the model's performance is evaluated on the test set, achieving an 
 accuracy of approximately [insert accuracy score here]. Additionally, the repository includes code for making predictions on individual images from 
 the test set and visualizing the results. Feel free to explore the code and adapt it for your own projects!
+
+
+===================================================================================================================================================================================
+
+This File includes screenshots that provide a visual representation of how the project looks like :-
+
+![image](https://github.com/aditya4313/MNIST/assets/137594520/09ddcef9-7c51-46c7-908d-7fa40377ba68)
+
