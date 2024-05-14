@@ -1,4 +1,5 @@
 MNIST Handwritten Digits Classification with TensorFlow
+
 This repository contains code for training a deep learning model to classify handwritten digits from the MNIST dataset using TensorFlow and Keras.
 The model architecture consists of a simple fully connected neural network with two hidden layers. The training script mnist_classification.py loads
 the MNIST dataset, preprocesses the images by scaling pixel values, builds the neural network model, compiles it with the Adam optimizer and sparse 
